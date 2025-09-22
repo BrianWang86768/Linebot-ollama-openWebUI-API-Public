@@ -23,7 +23,7 @@ This project is a LineBot built with Django, integrating **Ollama** (a local lar
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/jangogpt.git
+git clone https://github.com/BrianWang86768/jangogpt.git
 cd jangogpt
 ```
 
